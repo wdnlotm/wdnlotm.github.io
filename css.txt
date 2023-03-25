@@ -1,0 +1,33 @@
+.title-slide hgroup h2 {
+  font-size: 36px;
+  letter-spacing: 0;
+}
+slides > slide.title-slide p {
+  font-size: 36px;
+  color: blue;
+  font-style: bold;
+}
+slides > slide.title-slide hgroup .author {
+  font-size: 48px;
+}
+body p {
+  color: #000000;
+}
+body{ /* Normal  */
+      font-color: #000000;
+  }
+ul { 
+  display: block;
+  font-size: 30px;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-left: 0;
+  margin-right: 0;
+  font-weight: bold;
+  color: black;
+}
+slides > slide.title-slide hgroup h2 {  
+  color: red;
+  font-size: 30px;
+  letter-spacing: 10;
+}
