@@ -7,9 +7,12 @@ slides > slide.title-slide p {
   color: blue;
   font-style: bold;
 }
-slides > slide.title-slide hgroup .author {
-  font-size: 48px;
-}
+
+
+#slides > slide.title-slide hgroup .author {
+#  font-size: 48px;
+#}
+
 body p {
   color: #000000;
 }
@@ -26,6 +29,12 @@ ul {
   font-weight: bold;
   color: black;
 }
+
+ul { 
+  font-weight: bold;
+  color: black;
+}
+
 slides > slide.title-slide hgroup h2 {  
   color: red;
   font-size: 30px;
